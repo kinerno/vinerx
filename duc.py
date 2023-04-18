@@ -1,6 +1,6 @@
 import socket
 
-h = int(input('=>'))
+h = string(input('=>'))
 p = int(input('=>'))
 HOST = h    # Cấu hình address server
 PORT = p              # Cấu hình Port sử dụng
